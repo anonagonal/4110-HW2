@@ -1,0 +1,50 @@
+Mergesort(k=10)[0]: 4.796362638473511 seconds
+Mergesort(k=10)[1]: 4.6896586418151855 seconds
+Mergesort(k=10)[2]: 5.081466436386108 seconds
+Mergesort(k=10)[3]: 5.570163249969482 seconds
+Mergesort(k=10)[4]: 4.723679065704346 seconds
+Mergesort(k=10)[5]: 5.359685182571411 seconds
+Mergesort(k=10)[6]: 4.62837028503418 seconds
+Mergesort(k=10)[7]: 4.648056507110596 seconds
+Mergesort(k=10)[8]: 4.698503017425537 seconds
+Mergesort(k=10)[9]: 4.668512344360352 seconds
+Average: 4.8864457368850704 seconds
+
+Mergesort(k=1000)[0]: 34.085689544677734 seconds
+Mergesort(k=1000)[1]: 31.955978870391846 seconds
+Mergesort(k=1000)[2]: 30.148008823394775 seconds
+Mergesort(k=1000)[3]: 34.59616184234619 seconds
+Mergesort(k=1000)[4]: 32.51374626159668 seconds
+Mergesort(k=1000)[5]: 37.33494782447815 seconds
+Mergesort(k=1000)[6]: 35.34606337547302 seconds
+Mergesort(k=1000)[7]: 31.17774748802185 seconds
+Mergesort(k=1000)[8]: 30.49099898338318 seconds
+Mergesort(k=1000)[9]: 36.693742752075195 seconds
+Average: 33.43430857658386 seconds
+
+Quicksort(k=10000) Average: 762 seconds
+
+Radix sort[0]: 1.326446771621704 seconds
+Radix sort[1]: 1.5326933860778809 seconds
+Radix sort[2]: 1.013563871383667 seconds
+Radix sort[3]: 0.971519947052002 seconds
+Radix sort[4]: 0.9786274433135986 seconds
+Radix sort[5]: 0.9778010845184326 seconds
+Radix sort[6]: 0.9796137809753418 seconds
+Radix sort[7]: 0.9870946407318115 seconds
+Radix sort[8]: 1.0994839668273926 seconds
+Radix sort[9]: 0.9796109199523926 seconds
+Average: 1.0846455812454223 seconds
+
+Tim sort[0]: 6.408004522323608 seconds
+Tim sort[1]: 6.265378952026367 seconds
+Tim sort[2]: 7.129529237747192 seconds
+Tim sort[3]: 6.355839729309082 seconds
+Tim sort[4]: 6.447028160095215 seconds
+Tim sort[5]: 6.260714054107666 seconds
+Tim sort[6]: 6.247117280960083 seconds
+Tim sort[7]: 6.394879579544067 seconds
+Tim sort[8]: 7.068685054779053 seconds
+Tim sort[9]: 6.258816242218018 seconds
+Average: 6.483599281311035 seconds
+
